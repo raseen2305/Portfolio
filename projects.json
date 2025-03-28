@@ -1,0 +1,32 @@
+[
+  {
+    "name": "healthcare diagnostic system",
+    "desc": "A web application which connects doctors,Lab technicians, and patients ,to provide a platform for patients to book an appointment with doctors at the ease of home",
+    "image": "healthcare",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "SMART FARMING SYSTEM-IoT",
+    "desc": "A smart farmnig solution for reducing water bills and reduces labours thus enhacing the profit of the farmer .",
+    "image": "swar",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "LinkedIn post generator",
+    "desc": "generates a post base on previous posts of the user using GenAI.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
